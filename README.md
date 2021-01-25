@@ -6,9 +6,9 @@
 
 ## SCREENSHOTS
 
-  ![Street Beet Landing Page](capture1.jpg)
+  ![Street Beet Landing Page](capture2.jpg)
   
-  ![Street Beet Upcoming Events](capture2.jpg)
+  ![Street Beet Upcoming Events](capture1.jpg)
   
 ## CONTACT
 
